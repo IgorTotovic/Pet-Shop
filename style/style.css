@@ -203,7 +203,7 @@ textarea {
   border: 4px solid #8adab2;
   color: #df826c;
 }
-@media screen and (max-width: 320px) {
+@media screen and (@media screen and (min-width: 300px) and (max-width:420px)  {) {
 }
 article {
   display: flex;
