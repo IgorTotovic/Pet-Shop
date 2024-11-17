@@ -1,0 +1,5 @@
+User-agent:*
+Disalow:
+
+
+sitemap:https://github.com/IgorTotovic/Pet-shop/blob/main/sitemap.xml
