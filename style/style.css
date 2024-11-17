@@ -156,8 +156,7 @@ hr {
 }
 .ponuda {
   margin-top: 1rem;
-  display:flex;
-  flex-wrap:wrap;
+  
 }
 .ponuda-psi {
   display: flex;
@@ -211,10 +210,43 @@ article {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.ponuda{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  
+}
+.ponuda-psi{
+  margin-left: 3%;
+}
+.ponuda-macke
+{margin-left: 3%;}
+.ponuda-slike {
+  margin-left: 15%;
+  margin-bottom: 8%;
+  
+}
 @media screen and (max-width: 768px) {
 }
 article {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+.ponuda{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  
+}
+.ponuda-psi{
+  margin-left: 3%;
+}
+.ponuda-macke
+{margin-left: 3%;}
+.ponuda-slike {
+  margin-left: 15%;
+  margin-bottom: 8%;
+  
 }
